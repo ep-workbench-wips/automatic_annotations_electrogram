@@ -60,9 +60,7 @@ Your conda environment is now ready!
 
 7. Press on the Widget creator code tab and then press the run button. You can now close this window.
 
-![Work-In-Progress](images/wip.png)
-
-![Work-In-Progress](images/wip_code_editor.png)
+![Work-In-Progress](images/widget_code.png)
 
 > **NOTE:** Once saved the WIPs settings persist between sessions.
 
@@ -78,6 +76,8 @@ Your conda environment is now ready!
 ![Work-In-Progress](images/select_case.png)
 
 3. Press the Run button.
+
+![Work-In-Progress](images/wip.png)
 
 > **NOTE:** (Optional) See live outputs on the Code > Output Console Window.
 ---
