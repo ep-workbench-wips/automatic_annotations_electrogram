@@ -15,4 +15,4 @@ for i in range(0, num_pts):
 
 	case.electric.annotations._local_activation_time_indices[i] = float(lat + ref + woi_start)
 
-out_cases['onsets_annotated'] = case
+out_cases['bipolar_peak_annotated'] = case

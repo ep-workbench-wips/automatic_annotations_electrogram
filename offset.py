@@ -57,4 +57,4 @@ for i in range(0, num_pts):
 	onset, offset = annotate_bounds(egm, fs, e_percentile, v_percentile)
 	case.electric.annotations._local_activation_time_indices[i] = float(offset + ref + woi_start)
 
-out_cases['onsets_annotated'] = case
+out_cases['offsets_annotated'] = case
